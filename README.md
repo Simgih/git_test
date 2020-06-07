@@ -1,0 +1,1 @@
+This is Simgih's first git project!
